@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2035281246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31cbbdcdb73ce050007cfd85174163a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/img_time_sun.png
+- Assets/Textures/img_time_sat.png
+- Assets/Textures/img_time_mon.png
+- Assets/Textures/img_time_thu.png
+- Assets/Textures/img_time_fri.png
+- Assets/Textures/img_time_wed.png
+- Assets/Textures/img_time_tue.png
+Dependencies: []

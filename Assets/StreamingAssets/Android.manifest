@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 4122483272
+CRC: 1639264457
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
+      Name: week
+      Dependencies: {}
+    Info_1:
       Name: icon
       Dependencies: {}
